@@ -26,6 +26,6 @@ body {
     color: rgb(255, 192, 203) ;
 }
 
-#basic {
+#bold p {
     font-weight: bold;
 }
